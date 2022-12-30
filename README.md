@@ -1,7 +1,7 @@
 h1> OrangeBot -> Discord Bot </h1>
 
 <h2>Description</h2>
-
+This is a discord bot that can talk to people who use the proper Command and it also tracks who ever edits their message.
 <br />
 
 
